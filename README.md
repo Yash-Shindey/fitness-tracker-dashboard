@@ -1,6 +1,20 @@
 # Fitness Tracker Dashboard
 
 A comprehensive analytics dashboard for Fitbit data that provides insights into physical activity, sleep patterns, heart rate, and weight metrics.
+### Overview Dashboard
+![Overview Dashboard](Overview.png)
+
+### Activity Patterns
+![Activity Patterns](Activity.png)
+
+### Heart Rate Analysis
+![Heart Rate Analysis](Heart.png)
+
+### Sleep Insights
+![Sleep Insights](Sleep.png)
+
+### Weight Management
+![Weight Management](Weight.png)
 
 ## Features
 - Overview Dashboard with activity summaries and trends
