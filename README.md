@@ -23,7 +23,7 @@ This application requires Fitbit data in CSV format. The following files are nee
 You can download sample data from [Kaggle's Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit).
 
 ## Directory Structure
-
+```bash
 fitness-tracker/
 ├── app.py              # Main Streamlit application
 ├── src/
@@ -35,7 +35,7 @@ fitness-tracker/
 │   ├── raw/            # Place raw CSV files here
 │   └── processed/      # Processed data will be stored here
 └── requirements.txt    # Dependencies
-
+```
 ## Installation
 
 ```bash
