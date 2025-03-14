@@ -40,7 +40,7 @@ fitness-tracker/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/fitness-tracker-dashboard.git
+git clone https://github.com/Yash-Shindey/fitness-tracker-dashboard.git
 cd fitness-tracker-dashboard
 
 # Install requirements
