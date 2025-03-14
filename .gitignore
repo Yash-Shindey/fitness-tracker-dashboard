@@ -1,0 +1,50 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.pickle
+*.pkl
+
+# Keep the data directory structure but ignore contents
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+fitness_tracker_env/
+venv/
+env/
+ENV/
+
+# Backup files
+backup/
+*.bak
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary fix script files that shouldn't be in the final repo
+fix_*.py
+final_fixes.py
